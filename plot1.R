@@ -1,8 +1,5 @@
 #To execute the code from a Lunux command line just type
-```R
-> R CMD BATCH plot1.R
-```
-
+# R CMD BATCH plot1.R
 
 library(datasets) #Charge datasets library
 
